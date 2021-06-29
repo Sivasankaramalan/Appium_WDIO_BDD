@@ -26,7 +26,7 @@
     "gherkin",
     "automation testing"
   ],
-  "author": "Ram Pasala <ram.pasala7@gmail.com>",
+  "author": "Sivasankaramalan  <ssmalan94@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.1.4",
